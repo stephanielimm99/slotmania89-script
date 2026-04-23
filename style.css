@@ -102,7 +102,30 @@ a[href*="login"]::before{
   20%{ opacity:.75; }
   100%{ left:130%; opacity:.02; }
 }
+.main-nav-wrapper .nav-title{
+  font-weight: 900 !important; /* max bold */
+  font-size: 15px !important;
+  letter-spacing: 0.8px !important;
+}
 
+/* efek premium */
+.main-nav-wrapper .nav-title{
+  text-shadow:
+    0 1px 0 rgba(255,255,255,.35),
+    0 0 6px rgba(255,215,0,.25);
+}
+
+/* hover makin tegas */
+.main-nav-wrapper .nav-item:hover .nav-title{
+  color: #000 !important;
+  font-weight: 900 !important;
+}
+
+/* active */
+.main-nav-wrapper .nav-item.active .nav-title{
+  color: #000 !important;
+  font-weight: 900 !important;
+}
 /*
 ==========================
 humberg
