@@ -25,7 +25,7 @@ const ALLOWED_SERVERS = [
 ];
 
 const TARGET_SELECTORS = [
-  ".jp-provider-div"
+  ".jackpot"
 ];
 
   const STORAGE_KEY = "selectedServerEvent";
