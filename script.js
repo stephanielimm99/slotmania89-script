@@ -1195,7 +1195,7 @@ function createApkBox() {
 
       <div class="right-panel">
         <a href="https://storetn.in/SLOTMANIA89/slotmania89.apk" target="_blank">
-          <img src="https://imgstorage.site/view/miracle/apk-slotmania89.png" alt="Download APK SLOTMANIA89">
+          <img src="https://imgstorage.site/view/miracle/download-apk-slotmania89.png" alt="Download APK SLOTMANIA89">
         </a>
       </div>
     </div>
